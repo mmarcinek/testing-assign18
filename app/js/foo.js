@@ -15,7 +15,9 @@ window.Foo = (function() {
     };
 
   // Foo.prototype = {
-
+  //   greet: function (name){
+  //     return 'Hello, ' + name + '!',
+  //   };
   // };
 
     Foo.greet = function (name){
